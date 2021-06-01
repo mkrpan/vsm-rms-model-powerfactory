@@ -11,4 +11,6 @@ The model is intended for fundamental frequency (RMS) simulations. The 50 Hz 690
 - loads
 - a synchronous generator with _IEEE TGOV1_ turbine governor and _IEEET1_ excitation system.
 
+There are four simulation events in the model: step change of active power set-point, step change of reactive power set-point, step change of internal voltage set-point and step change of load power.
+
 Main developer of the model is Bojana Barać, with support and supervision by Matej Krpan, Tomislav Capuder and Igor Kuzle. Contact info of the authors can be found in the aforementioned paper.
