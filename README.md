@@ -14,3 +14,7 @@ The model is intended for fundamental frequency (RMS) simulations. The 50 Hz 690
 There are four simulation events in the model: step change of active power set-point, step change of reactive power set-point, step change of internal voltage set-point and step change of load power.
 
 Main developer of the model is Bojana Barać, with support and supervision by Matej Krpan, Tomislav Capuder and Igor Kuzle. Contact info of the authors can be found in the aforementioned paper.
+
+If you find this work helpful, please give credit to: B. Barać, M. Krpan, T. Capuder, I. Kuzle, "Modelling and Initialization of a Virtual Synchronous Machine for Power System Fundamental Frequency Simulations," preprint: 10.13140/RG.2.2.30876.21126, 2021.
+
+The preprint version of this paper is available online: https://www.researchgate.net/publication/352478576_Modelling_and_Initialization_of_a_Virtual_Synchronous_Machine_for_Power_System_Fundamental_Frequency_Simulations
