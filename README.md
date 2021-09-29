@@ -18,3 +18,5 @@ Main developer of the model is Bojana Barać, with support and supervision by Ma
 If you find this work helpful, please give credit to: B. Barać, M. Krpan, T. Capuder, I. Kuzle, "Modelling and Initialization of a Virtual Synchronous Machine for Power System Fundamental Frequency Simulations," preprint: 10.13140/RG.2.2.30876.21126, 2021.
 
 The preprint version of this paper is available online: https://www.researchgate.net/publication/352478576_Modelling_and_Initialization_of_a_Virtual_Synchronous_Machine_for_Power_System_Fundamental_Frequency_Simulations
+
+_**2020-09-29: Two new models have been added: battery energy storage system operated as a VSM (includes DC link dynamics and battery dynamics) and a rooftop PV plant operated as a DCVQ VSM (includes PV plant dynamics and DC link dynamics). Both have been created in PowerFactory v2019.**_
