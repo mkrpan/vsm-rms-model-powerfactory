@@ -15,7 +15,7 @@ There are four simulation events in the model: step change of active power set-p
 
 Main developer of the model is Bojana Barać, with support and supervision by Matej Krpan, Tomislav Capuder and Igor Kuzle. Contact info of the authors can be found in the aforementioned paper.
 
-If you find this work helpful, please give credit to: **B. Barac, M. Krpan, T. Capuder and I. Kuzle, "Modelling and Initialization of a Virtual Synchronous Machine for Power System Fundamental Frequency Simulations," in IEEE Access, doi: 10.1109/ACCESS.2021.3130375.**
+If you find this work helpful, please give credit to: **B. Barać, M. Krpan, T. Capuder and I. Kuzle, "Modeling and Initialization of a Virtual Synchronous Machine for Power System Fundamental Frequency Simulations," in IEEE Access, vol. 9, pp. 160116-160134, 2021, doi: 10.1109/ACCESS.2021.3130375.**
 
 The preprint version of this paper is available online: https://www.researchgate.net/publication/352478576_Modelling_and_Initialization_of_a_Virtual_Synchronous_Machine_for_Power_System_Fundamental_Frequency_Simulations
 
